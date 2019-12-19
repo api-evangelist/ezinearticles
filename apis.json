@@ -1,0 +1,72 @@
+{
+    "name": "EzineArticles",
+    "description": "EzineArticles.com is 400,000+ Expert Authors who share their best quality, original articles with our 30+ million monthly visitors. Our platform allows users to get exposure & traffic back to their website in exchange for the submission of their short,...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/402-ezinearticles.jpg",
+    "tags": [
+        "api provider",
+        "articles",
+        "content",
+        "have api",
+        "magazines",
+        "news"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ezinearticles\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EzineArticles",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/402-ezinearticles.jpg",
+            "humanURL": "http:\/\/ezinearticles.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ezinearticles-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ezinearticles-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.ezinearticles.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.ezinearticles.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.ezinearticles.com\/rss\/blog.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ezinearticles"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ezinearticles"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.ezinearticles.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/EzineArticles"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ezinearticles.com"
+        }
+    ]
+}
